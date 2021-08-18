@@ -1,0 +1,108 @@
+{
+  "Account": {
+    "Username": "antoniuspratamak",
+    "Password": "berkahhoky123",
+    "Currency": "Doge",
+    "2FA": "ON",
+    "API Access": "OFF",
+    "Reset Seed": "100"
+  },
+  "Target Profit": "50",
+  "Target Win": "10000",
+  "Lose Target": "0",
+  "Interval": "0",
+  "Betset": [
+    {
+      "Name Bet Set": "00 - @BEDUCODE SETTING",
+      "Base Bet": "0.00000001",
+      "Stop Max Bet": "OFF",
+      "Max Bet": "OFF",
+      "Chance": "5",
+      "Random Chance": {
+        "Toggle": "OFF",
+        "Min": "65",
+        "Max": "73"
+      },
+      "Bet": {
+        "Bet": "Low",
+        "Hi / Low": {
+          "Toggle": "OFF",
+          "If Lose": "1",
+          "If Win": "1"
+        }
+      },
+      "Mode1": {
+        "Toggle": "OFF",
+        "Lose": "1.8",
+        "Win": "1.14",
+        "Profit": "0.00000001",
+        "Max LS Strike": "OFF"
+      },
+      "Mode2": {
+        "Toggle": "ON",
+        "Prebet": "0.00000001",
+        "Preroll": "50",
+        "Multipler": "1.08",
+        "Max LS Strike": "6000"
+        
+      },
+      "Mode3": {
+        "Toggle": "OFF",
+        "Profit": "0.00000001",
+        "Prebet": "0.00000001",
+        "Gateway": "10",
+        "Preroll": "1",
+        "Limitlose": "100",
+        "Max LS Strike": "100",
+        "Multi Win": {
+          "LCMin": "5",
+          "LCMax": "5"
+        },
+        "Multi Lose": {
+          "LCMin": "5",
+          "LCMax": "5"
+        }
+      },
+      "Mode4": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Profit": "0.00000001",
+        "Gateway": "7",
+        "Passrol": "5",
+        "Limitlose": "100",
+        "Max LS Strike": "OFF",
+        "Multi Win": {
+          "LCMin": "5",
+          "LCMax": "5"
+        },
+        "Multi Lose": {
+          "LCMin": "5",
+          "LCMax": "5"
+        }
+      },
+      "Dalembert": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Preroll": "10",
+        "Profit": "0.00000001"
+      },
+      "Fibonacci": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Preroll": "1",
+        "Max LS Strike": "80"
+      },
+      "If Win": "1",
+      "If Lose": "2",
+      "Reset If Win": "1",
+      "Reset If Profit": "0.00000001",
+      "Interval": "0"
+    }
+  ],
+  "Auto Wd": {
+    "Toggle": "OFF",
+    "If Balance": "0",
+    "Wallet Address": "XXXXXXX",
+    "Amount": "0"
+  }
+}
